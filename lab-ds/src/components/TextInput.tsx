@@ -10,6 +10,7 @@ function TextInputRoot({ children }: TextInputRootProps) {
   return (
     <div className='
       flex
+      h-12
       items-center
       gap-3
       py-4 
