@@ -1,3 +1,7 @@
 {
-  "recommendations": ["Intelligent Tailwind CSS", "PostCSS Language Support"]
+  "recommendations": [
+    "Intelligent Tailwind CSS",
+    "PostCSS Language Support",
+    "MDX Language support"
+  ]
 }
