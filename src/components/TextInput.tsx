@@ -20,7 +20,7 @@ export interface TextInputProps extends InputHTMLAttributes<HTMLInputElement> { 
 
 function TextInputInput({ ...rest }: TextInputProps) {
   return (
-    <input {...rest} className='bg-transparent flex-1 text-gray-100 text-xs placeholder:text-gray-400 outline-none' />
+    <input {...rest} className='bg-transparent flex-1 text-gray-100 text-xs placeholder:text-gray-400 outline-none h-12' />
   )
 }
 TextInputInput.displayName = 'TextInput.Input'
